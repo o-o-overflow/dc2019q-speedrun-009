@@ -9,7 +9,7 @@
 /* 
 
    Compilation:
-   gcc -o speedrun-009 -O0 -static -pie -Wno-format-security speedrun-009.c && strip speedrun-009
+   gcc -o speedrun-009 -O0 -pie -Wno-format-security speedrun-009.c && strip speedrun-009
 
    Also need to take the glibc version to give to folks.
 
